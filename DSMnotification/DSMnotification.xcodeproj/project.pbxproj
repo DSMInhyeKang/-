@@ -7,90 +7,87 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3F6EA3D228574D2A00447738 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6EA3D128574D2A00447738 /* AppDelegate.swift */; };
-		3F6EA3D428574D2A00447738 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6EA3D328574D2A00447738 /* SceneDelegate.swift */; };
-		3F6EA3D628574D2A00447738 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6EA3D528574D2A00447738 /* ViewController.swift */; };
-		3F6EA3D928574D2A00447738 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F6EA3D728574D2A00447738 /* Main.storyboard */; };
-		3F6EA3DC28574D2A00447738 /* ___________.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3F6EA3DA28574D2A00447738 /* ___________.xcdatamodeld */; };
-		3F6EA3DE28574D2B00447738 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F6EA3DD28574D2B00447738 /* Assets.xcassets */; };
-		3F6EA3E128574D2B00447738 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F6EA3DF28574D2B00447738 /* LaunchScreen.storyboard */; };
-		BD36C4F13F9D1F8E9C6A4742 /* Pods____________.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F0A304CBF494D3CB99AAB7 /* Pods____________.framework */; };
+		3F92E6882858CFE600FCB5EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F92E6872858CFE600FCB5EC /* AppDelegate.swift */; };
+		3F92E68A2858CFE600FCB5EC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F92E6892858CFE600FCB5EC /* SceneDelegate.swift */; };
+		3F92E68C2858CFE600FCB5EC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F92E68B2858CFE600FCB5EC /* ViewController.swift */; };
+		3F92E68F2858CFE600FCB5EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F92E68D2858CFE600FCB5EC /* Main.storyboard */; };
+		3F92E6912858CFE700FCB5EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F92E6902858CFE700FCB5EC /* Assets.xcassets */; };
+		3F92E6942858CFE700FCB5EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F92E6922858CFE700FCB5EC /* LaunchScreen.storyboard */; };
+		7162B5C7D0C13BAB5AA8EB5B /* Pods_DSMnotification.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C97439275EC82E264DE819B /* Pods_DSMnotification.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3F6EA3CE28574D2A00447738 /* 대마알리미.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "대마알리미.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3F6EA3D128574D2A00447738 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3F6EA3D328574D2A00447738 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		3F6EA3D528574D2A00447738 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		3F6EA3D828574D2A00447738 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3F6EA3DB28574D2A00447738 /* ___________.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "___________.xcdatamodel"; sourceTree = "<group>"; };
-		3F6EA3DD28574D2B00447738 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		3F6EA3E028574D2B00447738 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		3F6EA3E228574D2B00447738 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		84F0A304CBF494D3CB99AAB7 /* Pods____________.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods____________.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EE251CB7CD4814FE3F605C8C /* Pods-대마알리미.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-대마알리미.debug.xcconfig"; path = "Target Support Files/Pods-대마알리미/Pods-대마알리미.debug.xcconfig"; sourceTree = "<group>"; };
-		F7703793E4A07DE0F36231B8 /* Pods-대마알리미.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-대마알리미.release.xcconfig"; path = "Target Support Files/Pods-대마알리미/Pods-대마알리미.release.xcconfig"; sourceTree = "<group>"; };
+		03AC49C72CE95168A1406166 /* Pods-DSMnotification.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DSMnotification.debug.xcconfig"; path = "Target Support Files/Pods-DSMnotification/Pods-DSMnotification.debug.xcconfig"; sourceTree = "<group>"; };
+		3F92E6842858CFE600FCB5EC /* DSMnotification.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DSMnotification.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F92E6872858CFE600FCB5EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3F92E6892858CFE600FCB5EC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		3F92E68B2858CFE600FCB5EC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3F92E68E2858CFE600FCB5EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3F92E6902858CFE700FCB5EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3F92E6932858CFE700FCB5EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3F92E6952858CFE700FCB5EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C97439275EC82E264DE819B /* Pods_DSMnotification.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DSMnotification.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA269A454EB5B5CD37C7EDA8 /* Pods-DSMnotification.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DSMnotification.release.xcconfig"; path = "Target Support Files/Pods-DSMnotification/Pods-DSMnotification.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3F6EA3CB28574D2A00447738 /* Frameworks */ = {
+		3F92E6812858CFE600FCB5EC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BD36C4F13F9D1F8E9C6A4742 /* Pods____________.framework in Frameworks */,
+				7162B5C7D0C13BAB5AA8EB5B /* Pods_DSMnotification.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3F6EA3C528574D2A00447738 = {
+		3F92E67B2858CFE600FCB5EC = {
 			isa = PBXGroup;
 			children = (
-				3F6EA3D028574D2A00447738 /* 대마알리미 */,
-				3F6EA3CF28574D2A00447738 /* Products */,
-				50EE661574E4627E32A5789D /* Pods */,
-				55399B972A82244057FEF71C /* Frameworks */,
+				3F92E6862858CFE600FCB5EC /* DSMnotification */,
+				3F92E6852858CFE600FCB5EC /* Products */,
+				EE566470520F1AC53E49618F /* Pods */,
+				FD8DB46C35EBEF51D46BB918 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		3F6EA3CF28574D2A00447738 /* Products */ = {
+		3F92E6852858CFE600FCB5EC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3F6EA3CE28574D2A00447738 /* 대마알리미.app */,
+				3F92E6842858CFE600FCB5EC /* DSMnotification.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3F6EA3D028574D2A00447738 /* 대마알리미 */ = {
+		3F92E6862858CFE600FCB5EC /* DSMnotification */ = {
 			isa = PBXGroup;
 			children = (
-				3F6EA3D128574D2A00447738 /* AppDelegate.swift */,
-				3F6EA3D328574D2A00447738 /* SceneDelegate.swift */,
-				3F6EA3D528574D2A00447738 /* ViewController.swift */,
-				3F6EA3D728574D2A00447738 /* Main.storyboard */,
-				3F6EA3DD28574D2B00447738 /* Assets.xcassets */,
-				3F6EA3DF28574D2B00447738 /* LaunchScreen.storyboard */,
-				3F6EA3E228574D2B00447738 /* Info.plist */,
-				3F6EA3DA28574D2A00447738 /* ___________.xcdatamodeld */,
+				3F92E6872858CFE600FCB5EC /* AppDelegate.swift */,
+				3F92E6892858CFE600FCB5EC /* SceneDelegate.swift */,
+				3F92E68B2858CFE600FCB5EC /* ViewController.swift */,
+				3F92E68D2858CFE600FCB5EC /* Main.storyboard */,
+				3F92E6902858CFE700FCB5EC /* Assets.xcassets */,
+				3F92E6922858CFE700FCB5EC /* LaunchScreen.storyboard */,
+				3F92E6952858CFE700FCB5EC /* Info.plist */,
 			);
-			path = "대마알리미";
+			path = DSMnotification;
 			sourceTree = "<group>";
 		};
-		50EE661574E4627E32A5789D /* Pods */ = {
+		EE566470520F1AC53E49618F /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				EE251CB7CD4814FE3F605C8C /* Pods-대마알리미.debug.xcconfig */,
-				F7703793E4A07DE0F36231B8 /* Pods-대마알리미.release.xcconfig */,
+				03AC49C72CE95168A1406166 /* Pods-DSMnotification.debug.xcconfig */,
+				FA269A454EB5B5CD37C7EDA8 /* Pods-DSMnotification.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		55399B972A82244057FEF71C /* Frameworks */ = {
+		FD8DB46C35EBEF51D46BB918 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				84F0A304CBF494D3CB99AAB7 /* Pods____________.framework */,
+				9C97439275EC82E264DE819B /* Pods_DSMnotification.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -98,40 +95,40 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3F6EA3CD28574D2A00447738 /* 대마알리미 */ = {
+		3F92E6832858CFE600FCB5EC /* DSMnotification */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F6EA3E528574D2B00447738 /* Build configuration list for PBXNativeTarget "대마알리미" */;
+			buildConfigurationList = 3F92E6982858CFE700FCB5EC /* Build configuration list for PBXNativeTarget "DSMnotification" */;
 			buildPhases = (
-				D6135A10B86672D59240DDC2 /* [CP] Check Pods Manifest.lock */,
-				3F6EA3CA28574D2A00447738 /* Sources */,
-				3F6EA3CB28574D2A00447738 /* Frameworks */,
-				3F6EA3CC28574D2A00447738 /* Resources */,
+				C9D62C66FBAE4D38FE926B2E /* [CP] Check Pods Manifest.lock */,
+				3F92E6802858CFE600FCB5EC /* Sources */,
+				3F92E6812858CFE600FCB5EC /* Frameworks */,
+				3F92E6822858CFE600FCB5EC /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "대마알리미";
-			productName = "대마알리미";
-			productReference = 3F6EA3CE28574D2A00447738 /* 대마알리미.app */;
+			name = DSMnotification;
+			productName = DSMnotification;
+			productReference = 3F92E6842858CFE600FCB5EC /* DSMnotification.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3F6EA3C628574D2A00447738 /* Project object */ = {
+		3F92E67C2858CFE600FCB5EC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1330;
 				LastUpgradeCheck = 1330;
 				TargetAttributes = {
-					3F6EA3CD28574D2A00447738 = {
+					3F92E6832858CFE600FCB5EC = {
 						CreatedOnToolsVersion = 13.3;
 					};
 				};
 			};
-			buildConfigurationList = 3F6EA3C928574D2A00447738 /* Build configuration list for PBXProject "대마알리미" */;
+			buildConfigurationList = 3F92E67F2858CFE600FCB5EC /* Build configuration list for PBXProject "DSMnotification" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -139,31 +136,31 @@
 				en,
 				Base,
 			);
-			mainGroup = 3F6EA3C528574D2A00447738;
-			productRefGroup = 3F6EA3CF28574D2A00447738 /* Products */;
+			mainGroup = 3F92E67B2858CFE600FCB5EC;
+			productRefGroup = 3F92E6852858CFE600FCB5EC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3F6EA3CD28574D2A00447738 /* 대마알리미 */,
+				3F92E6832858CFE600FCB5EC /* DSMnotification */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3F6EA3CC28574D2A00447738 /* Resources */ = {
+		3F92E6822858CFE600FCB5EC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F6EA3E128574D2B00447738 /* LaunchScreen.storyboard in Resources */,
-				3F6EA3DE28574D2B00447738 /* Assets.xcassets in Resources */,
-				3F6EA3D928574D2A00447738 /* Main.storyboard in Resources */,
+				3F92E6942858CFE700FCB5EC /* LaunchScreen.storyboard in Resources */,
+				3F92E6912858CFE700FCB5EC /* Assets.xcassets in Resources */,
+				3F92E68F2858CFE600FCB5EC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		D6135A10B86672D59240DDC2 /* [CP] Check Pods Manifest.lock */ = {
+		C9D62C66FBAE4D38FE926B2E /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -178,7 +175,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-대마알리미-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-DSMnotification-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -188,32 +185,31 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3F6EA3CA28574D2A00447738 /* Sources */ = {
+		3F92E6802858CFE600FCB5EC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F6EA3D628574D2A00447738 /* ViewController.swift in Sources */,
-				3F6EA3DC28574D2A00447738 /* ___________.xcdatamodeld in Sources */,
-				3F6EA3D228574D2A00447738 /* AppDelegate.swift in Sources */,
-				3F6EA3D428574D2A00447738 /* SceneDelegate.swift in Sources */,
+				3F92E68C2858CFE600FCB5EC /* ViewController.swift in Sources */,
+				3F92E6882858CFE600FCB5EC /* AppDelegate.swift in Sources */,
+				3F92E68A2858CFE600FCB5EC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		3F6EA3D728574D2A00447738 /* Main.storyboard */ = {
+		3F92E68D2858CFE600FCB5EC /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3F6EA3D828574D2A00447738 /* Base */,
+				3F92E68E2858CFE600FCB5EC /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		3F6EA3DF28574D2B00447738 /* LaunchScreen.storyboard */ = {
+		3F92E6922858CFE700FCB5EC /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3F6EA3E028574D2B00447738 /* Base */,
+				3F92E6932858CFE700FCB5EC /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -221,7 +217,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		3F6EA3E328574D2B00447738 /* Debug */ = {
+		3F92E6962858CFE700FCB5EC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -281,7 +277,7 @@
 			};
 			name = Debug;
 		};
-		3F6EA3E428574D2B00447738 /* Release */ = {
+		3F92E6972858CFE700FCB5EC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -335,9 +331,9 @@
 			};
 			name = Release;
 		};
-		3F6EA3E628574D2B00447738 /* Debug */ = {
+		3F92E6992858CFE700FCB5EC /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EE251CB7CD4814FE3F605C8C /* Pods-대마알리미.debug.xcconfig */;
+			baseConfigurationReference = 03AC49C72CE95168A1406166 /* Pods-DSMnotification.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -345,7 +341,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = B8B7L582Q4;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "대마알리미/Info.plist";
+				INFOPLIST_FILE = DSMnotification/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -356,7 +352,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.InHyeKang.-----------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.InHyeKang.DSMnotification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -364,9 +360,9 @@
 			};
 			name = Debug;
 		};
-		3F6EA3E728574D2B00447738 /* Release */ = {
+		3F92E69A2858CFE700FCB5EC /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F7703793E4A07DE0F36231B8 /* Pods-대마알리미.release.xcconfig */;
+			baseConfigurationReference = FA269A454EB5B5CD37C7EDA8 /* Pods-DSMnotification.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -374,7 +370,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = B8B7L582Q4;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "대마알리미/Info.plist";
+				INFOPLIST_FILE = DSMnotification/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -385,7 +381,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.InHyeKang.-----------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.InHyeKang.DSMnotification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -396,38 +392,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3F6EA3C928574D2A00447738 /* Build configuration list for PBXProject "대마알리미" */ = {
+		3F92E67F2858CFE600FCB5EC /* Build configuration list for PBXProject "DSMnotification" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F6EA3E328574D2B00447738 /* Debug */,
-				3F6EA3E428574D2B00447738 /* Release */,
+				3F92E6962858CFE700FCB5EC /* Debug */,
+				3F92E6972858CFE700FCB5EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3F6EA3E528574D2B00447738 /* Build configuration list for PBXNativeTarget "대마알리미" */ = {
+		3F92E6982858CFE700FCB5EC /* Build configuration list for PBXNativeTarget "DSMnotification" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F6EA3E628574D2B00447738 /* Debug */,
-				3F6EA3E728574D2B00447738 /* Release */,
+				3F92E6992858CFE700FCB5EC /* Debug */,
+				3F92E69A2858CFE700FCB5EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		3F6EA3DA28574D2A00447738 /* ___________.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				3F6EA3DB28574D2A00447738 /* ___________.xcdatamodel */,
-			);
-			currentVersion = 3F6EA3DB28574D2A00447738 /* ___________.xcdatamodel */;
-			path = "___________.xcdatamodeld";
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
-	rootObject = 3F6EA3C628574D2A00447738 /* Project object */;
+	rootObject = 3F92E67C2858CFE600FCB5EC /* Project object */;
 }

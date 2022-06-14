@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  대마알리미
+//  DSMnotification
 //
-//  Created by 강인혜 on 2022/06/13.
+//  Created by 강인혜 on 2022/06/14.
 //
 
 import UIKit
